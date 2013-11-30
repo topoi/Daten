@@ -1,106 +1,86 @@
-* Allgemeine systematische Studien zu den Diaries
+* Alle Scripte für die word to latex Lonvertierung
 
-** Anmerkung: Sammlung von Links zur Systematik der astronomischen Diaries in Kombination mit Wetterbeobachtungen
-
-
-** Tabelle mit allen 4942 Diaries
-*** http://bl.ocks.org/TopoiMedusa/raw/6009082/
-
-** Tabelle mit allen Wetterbeobachtungen
-*** http://bl.ocks.org/topoi/raw/6039224/
-
-** erste allgemeine Statistiken:
-*** Verteilung der Diaries über die Jahre
-**** http://bl.ocks.org/topoi/raw/6028044/786a1411585a4c5b9a7c95b39082dc2605b87311/
-
-*** Verteilung der Diaries über die Monate
-**** Balkendiagramm: http://bl.ocks.org/topoi/raw/6028303/
-**** Tortendiagramm: http://bl.ocks.org/TopoiMedusa/raw/6009025/
-
-*** Verteilung der Diaries über die Tage
-**** http://bl.ocks.org/topoi/raw/6028339/
-
-*** Verteilung der Wetterbeobachtungen über die Jahre
-**** http://bl.ocks.org/topoi/raw/6039194/
-
-*** Verteilung der Wetterbeobachtungen über die Monate
-**** http://bl.ocks.org/topoi/raw/6039241/
-
-*** Verteilung der Wetterbeobachtungen über die Tage
-**** http://bl.ocks.org/topoi/raw/6039257/
+** Anmerkung: hier sollen alle Scripte für die redaktionelle Bearbeitung von Dokumenten rein
 
 
-*** Verteilung der Relation zwischen den zwei betrachteten Objekten
-**** http://bl.ocks.org/TopoiMedusa/raw/6009044/
+** word to latex Korrekturen
+****** #!/usr/bin/perl
+****** use strict;
+****** use warnings;
+****** $^I = '.bak'; # create a backup copy 
+****** while (<>) {
+****** s/IND\[([^\]]+)\]\[([^\]]+)\]/\\index{$1}{$2}/g;  #diese Zeile ersetzt den Index
+****** s/\[\[/\\cite{/g; # diese 
+****** s/\]\]/}/g; #und diese Zeilen ersetzen Cite
+****** print; 
+}
 
-*** Verteilung der Nachtphasen
-**** http://bl.ocks.org/TopoiMedusa/raw/6009053/
-
-*** Verteilung der Orientierung 
-**** http://bl.ocks.org/TopoiMedusa/raw/6009064/
-
-**  Monatsverteilungen abhängig von der Nachtphase
-*** Monatsverteilung für "beginning of night"
-**** http://bl.ocks.org/topoi/raw/6028668/cc77d47e698a3d797d6ef82b0d079c0acb3f88df/
-
-*** Monatsverteilung für "first part of night"
-**** http://bl.ocks.org/topoi/raw/6028668/3e6386940bca64265685ab1af1fdb2947536a3c4/
-
-*** Monatsverteilung für "middle part of night"
-**** http://bl.ocks.org/topoi/raw/6028668/c2d96b9c56e05c7ff8319ba8a490b57a60da594f/
-
-*** Monatsverteilung für "last part of night"
-**** http://bl.ocks.org/topoi/raw/6028668/9de1b4bc1ff0390cb5c7a81fbc121f9dcd58fdd9/
-
-** Monatsverteilung abhängig von der Orientierung am Himmel
-
-*** Monatsverteilung für "passed to the east"
-**** http://bl.ocks.org/topoi/raw/6028771/
-
-*** Monatsverteilung für "low to the south"
-**** http://bl.ocks.org/topoi/raw/6028822/
-
-*** Monatsverteilung für "high to the north"
-**** http://bl.ocks.org/topoi/raw/6028826/
-
-*** Monatsverteilung für "back to the west"
-**** http://bl.ocks.org/topoi/raw/6028835/
-
-** Monatsverteilung abhängig von der Relation zwischen den beiden Objekten
-*** Monatsverteilung für "above"
-**** http://bl.ocks.org/topoi/raw/6028867/
-*** Monatsverteilung für "below"
-**** http://bl.ocks.org/topoi/raw/6028872/
-
-*** Monatsverteilung für "behind"
-**** http://bl.ocks.org/topoi/raw/6028882/864184a48bfa540189bfe9984fcec79b9e8d177c/
-
-*** Monatsverteilung für "in front of"
-**** http://bl.ocks.org/topoi/raw/6028889/
-
-*** Monatsverteilung für "is standing in"
-**** http://bl.ocks.org/topoi/raw/6028894/
+** rausschreiben der Indices
 
 
-** Erste Kombinationen aus Wetter und astronomischen Daten
-*** "Beginning of night" bei bewölkten Himmel
-**** http://bl.ocks.org/topoi/raw/6039563/
+****** #!/usr/bin/perl
+****** use strict;
+****** use warnings;
+****** $^I = '.bak'; # create a backup copy
+****** my $str1;
 
-*** "First part of night" bei bewölten Himmel
-**** http://bl.ocks.org/topoi/raw/6039584
+****** while (<>) {
+   
+****** if(/\\index{([^}]+)}{([^}]+)}/){
+****** s/\\index{([^}]+)}{([^}]+)}/$1$2/g;
+****** $str1 = "$2";
+****** print $str1;
+****** }
+****** }
 
-*** "Middle part of night" bei bewölten Himmel
-**** http://bl.ocks.org/topoi/raw/6039597
 
-*** "Last part of night" bei bewölten Himmel
-**** http://bl.ocks.org/topoi/raw/6039605
+** erstellen der Metadaten (JSON)
 
+****** #!/usr/bin/perl
+****** use strict;
+****** use warnings;
+****** my $str1;
 
+****** while (<>) {
+****** if(/\\href{([^}]+)}{([^}]+)}/){
+****** s/\\href{([^}]+)}{([^}]+)}/$1$2/g;
+****** $str1 = "{'Link':'$1','name':'$2'},";
+******    print $str1;
+******   }
+******   if(/\\index{([^}]+)}{([^}]+)}/){
+******   s/\\index{([^}]+)}{([^}]+)}/$1$2/g;
+******   $str1 = "{'Index':'$2','name':'$1'},";
+******   print $str1;
+******   }
+******   if(/\\cite{([^}]+)}/)
+******   {
+******   s/\\cite{([^}]+)}/$1/g;
+******   $str1="{'cite':'$1'},";
+******   print $str1;
+******   }
+******   if(/\\section{([^}]+)}/)
+******   {
+******   s/\\section{([^}]+)}/$1/g;
+******   $str1="{'Section':'$1'},";
+******   print $str1;
+******   }
+******   if(/\\subsection{([^}]+)}/)
+******   {
+******   s/\\subsection{([^}]+)}/$1/g;
+******   $str1="{'Subsection':'$1'},";
+******   print $str1;
+******   } }
 
-* Sonstiges
-** To Do
-*** noch genug
+** Überprüfung der Links auf Funktionalität
 
-** Auffälligkeiten:
-*** "middle of the night" nur für Sternenbilder (eine Ausnahme)
-***  kein "end of the night"
+****** #!/usr/bin/perl
+****** print "Content-type: text/html\n\n<pre>";
+****** use LWP::Simple;
+****** @url= ( 'http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/JSON2builder.html','http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/JSON2builderr.html');
+****** for $url(@url) {
+****** print "url=$url\n";
+****** @x= head($url);
+****** printf "head($url)=\n (%s)\n", join(', ',@x);
+****** }
+****** print "Done."
+
