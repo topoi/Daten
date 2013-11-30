@@ -1,6 +1,6 @@
-* Alle Scripte für die word to latex Lonvertierung
+* Alle Scripte für die word to latex Konvertierung
 
-** Anmerkung: hier sollen alle Scripte für die redaktionelle Bearbeitung von Dokumenten rein
+** Anmerkung: hier sollen alle Scripte für die redaktionelle Bearbeitung von (tex)Dokumenten rein
 
 
 ** word to latex Korrekturen
