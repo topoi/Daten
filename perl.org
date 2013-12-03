@@ -2,9 +2,33 @@
 
 ** Anmerkung: hier sollen alle Scripte für die redaktionelle Bearbeitung von (tex)Dokumenten rein
 
+** text für die Indices
+
+****** #!/usr/bin/perl
+****** use strict;
+****** use warnings;
+
+****** #diese Zeile liest die text Datei mit den Begriffen ein
+****** open my $fh, '<', 'Index_Begriffe.txt' or die $!;
+
+****** #hier wird aus dem textfile ein Array gemacht
+****** chomp(my @file = <$fh>);
+****** close $fh;
+
+****** #hier die Ersetzung des Textes
+****** while (<>) {
+****** for (my $k=0; $k<248; $k++) 
+****** {
+   
+******    s/$file[$k]/\\index{$file[$k]}{$file[$k]}/g;
+   
+******}
+******print;
+******}
+
 
 ** word to latex Korrekturen
-****** #!/usr/bin/perl
+#!/usr/bin/perl
 ****** use strict;
 ****** use warnings;
 ****** $^I = '.bak'; # create a backup copy 
