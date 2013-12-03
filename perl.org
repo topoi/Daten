@@ -22,9 +22,9 @@
    
 ******    s/$file[$k]/\\index{$file[$k]}{$file[$k]}/g;
    
-******}
-******print;
-******}
+****** }
+****** print;
+****** }
 
 
 ** word to latex Korrekturen
