@@ -1,0 +1,17 @@
+* Planung der JSON Files
+
+** für die Tools
+*** JSON file wird mit Creator erzeugt, 5 Kategorien:  flagname, Seite, tool, Quelle, Informationen
+*** Seitenzahl wird automatisch generiert, der Quelllink wird über drag&drop auf das jeweilige Tool geschrieben.
+*** Beispiel:
+
+**** [{"name":"1","page":1,"tool":"http://www.ancient-astronomy.org/webapplications/gordon/3dviewer/examples/ThingView_adress.html","source":"http://www.ancient-astronomy.org/webapplications/gordon/3dviewer/examples/models/ply/ascii/BSDP0042ObjID2ASCII.stl","meta":"<a target='_' href='http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/jsonviewer1.html'>info</a>  1"}]
+
+** Metadaten
+*** während der PDF Erzeugung werden die Perl Scripte (siehe perl.org in diesem Ordner) ausgeführt und extrahieren aus dem TeX
+    Code die Metadaten /section /subsection /cite etc.
+***** {"Section":"Einleitung"},{"cite":[{"cite":"Deonna1938", "title" : "Le mobilier délien: Exploration archeologique de Délos","publisher" : "Boccard","year" : "1938","author" : "Deonna, W.","address" : "Paris","owner" : "keil","timestamp" : "2011-11-02 14:45:47"}]},{"cite":[{"cite":"Gibbs1976","title" : "Greek and Roman Sundials",  "publisher" : "Yale University Press",  "year" : "1976",  "author" : "Gibbs, Sh.L.",  "address" : "New Haven AND London","owner" : "rinnerel", "timestamp" : "2011-03-10 09:25:11"}]},{"cite":"Bruneau2005"},{"Section":"Neue Evidenzen zum Objekt"},{"cite":"Deonna1938"},{"cite":"Deonna1938"},{"Link":"http://repository.topoi.org/BSDP/BSDP0047","name":"BSDP0047"},{"cite":"BSDP0047"},{"Section":"Das Objekt"},{"Link":"http://repository.topoi.org/BSDP/BSDP0010/DelosDSC_0536-640.JPG","name":"DelosDSC\_0536-640.jpg"},{"cite":"BSDP0010"},{"cite":"BSDP????"},{"cite":"BSDP????"},{"cite":"Deonna1938"},{"Link":"http://repository.topoi.org/BSDP/BSDP0010/DelosDSC_0564-668.JPG","name":"DelosDSC\_0564-668.jpg."},{"cite":"BSDP0010"},{"cite":"Deonna1938"},{"cite":"Deonna1938"},{"Link":"http://repository.topoi.org/BSDP/BSDP0010/DelosDSC_0540-644.JPG","name":"DelosDSC\_0540-644.jpg"},{"cite":"BSDP0010"},{"Link":"http://repository.topoi.org/BSDP/BSDP0010/DelosDSC_0567-671.JPG","name":"DelosDSC\_0567-671.jpg"},{"cite":"BSDP0010"},{"cite":"Radt2002--"},{"Section":"Der intendierte Typ der Sonnenuhr"},{"cite":"Gibbs1976"},{"Section":"Die Herstellung der Sonnenuhr"},{"cite":"Bruneau2005"},{"Section":"Unvollendet oder auch verworfen?"},{"cite":"Jockey1998"},{"cite":"Jockey1998"}    
+    
+*** die Zitate können auch separat rausgeschrieben werden.
+***** {"cite":"Deonna1938", "title" : "Le mobilier délien: Exploration archeologique de Délos","publisher" : "Boccard","year" : "1938","author" : "Deonna, W.","address" : "Paris","owner" : "keil","timestamp" : "2011-11-02 14:45:47"}
+  
