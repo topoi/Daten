@@ -1,4 +1,9 @@
-* Planung der JSON Files
+* Planung der JSON Files und des JSON creators
+
+** aktuelle Tools (Arbeitsversionen) für den WoK Creator
+*** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/ThreeWindow_1.html
+
+
 
 ** für die Tools
 *** JSON file wird mit Creator erzeugt, 5 Kategorien:  flagname, Seite, tool, Quelle, Informationen
