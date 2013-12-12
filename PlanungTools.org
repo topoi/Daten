@@ -1,6 +1,8 @@
 * Planung der JSON Files und des JSON creators
 
 ** aktuelle Tools (Arbeitsversionen) für den WoK Creator
+**** Skizze
+***** https://dl.dropboxusercontent.com/u/103327358/WoK.pdf
 
 **  aktueller WoK Generator
 *** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/NewStandalone_Debug.html#_
