@@ -1,6 +1,7 @@
 * Alle Scripte für die word to latex Konvertierung
 
 ** Anmerkung: hier sollen alle Scripte für die redaktionelle Bearbeitung von (tex)Dokumenten rein
+** ACHTUNG! es fehlen "/\" (?!?)
 
 ** text für die Indices
 
