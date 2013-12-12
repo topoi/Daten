@@ -2,7 +2,9 @@
 
 ** aktuelle Tools (Arbeitsversionen) für den WoK Creator
 
+**  aktueller WoK Generator
 *** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/NewStandalone_Debug.html#_
+**  JSON editor
 *** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/jsoneditor/jsoneditor.html
 
 
