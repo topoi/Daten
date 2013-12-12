@@ -1,6 +1,11 @@
 * Planung der JSON Files und des JSON creators
 
 ** aktuelle Tools (Arbeitsversionen) für den WoK Creator
+
+*** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/NewStandalone_Debug.html#_
+*** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/jsoneditor/jsoneditor.html
+
+
 *** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/ThreeWindow_1.html
 
 ** Link vom Freitag
