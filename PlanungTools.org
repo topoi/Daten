@@ -14,6 +14,8 @@
 *** Beispiel für Zitate
 **** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/jsoneditor/jsoneditor_renger.html
 
+** aktueller Code für den Viewer
+*** http://bl.ocks.org/topoi/7941553
 
 
 ** +++++++++   Archiv   ++++++++++++++
