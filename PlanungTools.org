@@ -24,7 +24,14 @@
 ***** });
 
 *** das loader.php:
-**** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/loader.php
+***** <?
+***** $content = $_REQUEST["json"];
+***** $fileName = $_REQUEST["file"];
+***** $fp = fopen($_SERVER['DOCUMENT_ROOT'] . $fileName,"wb");
+***** fwrite($fp,$content);
+***** fclose($fp);
+***** echo $_SERVER['DOCUMENT_ROOT'] . $fileName;
+***** ?>
 
 
 
