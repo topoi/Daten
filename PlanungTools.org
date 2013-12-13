@@ -14,6 +14,20 @@
 *** Beispiel für Zitate
 **** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/jsoneditor/jsoneditor_renger.html
 
+** Kommunikation mit dem Server
+***** $(".upload").click(function() {
+***** var jsonfile = JSON.stringify(myCollection);
+***** $.ajax({
+***** type: "POST",
+***** url: "http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/loader.php",
+***** data: { "json": jsonfile, "file": "/webapplications/gordon/pdfv/web/jsonfiles/secondUpload.json" }});
+***** });
+
+*** das loader.php:
+**** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/loader.php
+
+
+
 ** aktueller Code für den Viewer
 *** http://bl.ocks.org/topoi/7941553
 
