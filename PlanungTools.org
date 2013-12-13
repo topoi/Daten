@@ -5,10 +5,17 @@
 ***** https://dl.dropboxusercontent.com/u/103327358/WoK.pdf
 
 **  aktueller WoK-JSON Generator
-*** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/NewStandalone_Debug.html#_
+*** mit hot key:
+**** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/NewStandalone_Donnerstag.html#_
+*** mit transparenten Fenstern
+**** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/NewStandalone_Debug.html#_
 **  JSON editor/manager
-*** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/jsoneditor/jsoneditor.html
-
+**** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/jsoneditor/jsoneditor.html
+*** Beispiel für Zitate
+****http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/jsoneditor/jsoneditor_renger.html
+
+
+
 ** Archiv
 *** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/ThreeWindow_1.html
 
