@@ -12,7 +12,7 @@
 **  JSON editor/manager
 **** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/jsoneditor/jsoneditor.html
 *** Beispiel für Zitate
-****http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/jsoneditor/jsoneditor_renger.html
+**** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/jsoneditor/jsoneditor_renger.html
 
 
 
