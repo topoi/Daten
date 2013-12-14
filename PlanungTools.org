@@ -4,6 +4,17 @@
 **** Skizze
 ***** https://dl.dropboxusercontent.com/u/103327358/WoK.pdf
 
+** Link zum Renger Band auf dem Server
+*** http://www.ancient-astronomy.org/webapplications/eTopoi/renger_luatex_opt.pdf
+
+**   Links von Sebastian
+***  wischen links/rechts
+**** http://brotschi.de/pdf.js/dBookViewer.betaTest/index_swipe.html
+***  renger
+**** http://brotschi.de/pdf.js/dBookViewer.betaTest/?file=pdf/renger_luatex_opt.pdf
+***  D-Book prototyp
+**** http://brotschi.de/pdf.js/dBookViewer.betaTest/?file=pdf/D-Book.pdf&json=pdf/D-Book.json
+
 **  aktueller WoK-JSON Generator
 *** mit hot key:
 **** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/NewStandalone_Donnerstag.html#_
@@ -15,6 +26,8 @@
 *** aktuell
 **** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/jsoneditor/jsoneditor_renger2.html
 
+*** Beispiel für Online Indices
+**** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/jsoneditor/jsoneditor_index.html
 
 ** Kommunikation mit dem Server
 ***** $(".upload").click(function() {
