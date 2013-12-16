@@ -19,6 +19,7 @@
 **** http://brotschi.de/pdf.js/dBookViewer.betaTest/?file=pdf/D-Book.pdf&json=pdf/D-Book.json
 
 **  aktueller WoK-JSON Generator
+**** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/NewStandalone_1412.html#_
 *** mit hot key:
 **** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/NewStandalone_Donnerstag.html#_
 *** mit transparenten Fenstern
