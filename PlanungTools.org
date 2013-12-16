@@ -3,7 +3,8 @@
 ** Link des Tages
 *** http://www.ancient-astronomy.org/webapplications/gordon/dEbook/html/index2.html
 
-**** Skizze
+** der ganze Rest
+*** Skizzierung der Server-Kommunikation
 ***** https://dl.dropboxusercontent.com/u/103327358/WoK.pdf
 
 ** Link zum Renger Band auf dem Server
