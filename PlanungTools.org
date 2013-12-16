@@ -1,6 +1,8 @@
 * Planung der JSON Files und des JSON creators
 
-** aktuelle Tools (Arbeitsversionen) für den WoK Creator
+** Link des Tages
+*** http://www.ancient-astronomy.org/webapplications/gordon/dEbook/html/index2.html
+
 **** Skizze
 ***** https://dl.dropboxusercontent.com/u/103327358/WoK.pdf
 
