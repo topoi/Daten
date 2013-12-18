@@ -11,6 +11,9 @@
 *** http://www.ancient-astronomy.org/webapplications/eTopoi/renger_luatex_opt.pdf
 
 **   Links von Sebastian
+***  aktueller Link vom 17.12
+**** http://brotschi.de/pdf.js/dBookViewer.betaTest/?file=pdf/renger_luatex_opt.pdf
+
 ***  wischen links/rechts
 **** http://brotschi.de/pdf.js/dBookViewer.betaTest/index_swipe.html
 ***  renger
