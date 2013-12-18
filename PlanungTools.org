@@ -25,30 +25,6 @@
 *** Link zum Renger Band auf dem Archimedes-Server
 *** http://www.ancient-astronomy.org/webapplications/eTopoi/renger_luatex_opt.pdf
 
-**   weitere Links von Sebastian
-***  wischen links/rechts
-**** http://brotschi.de/pdf.js/dBookViewer.betaTest/index_swipe.html
-***  renger
-**** http://brotschi.de/pdf.js/dBookViewer.betaTest/?file=pdf/renger_luatex_opt.pdf
-***  D-Book prototyp
-**** http://brotschi.de/pdf.js/dBookViewer.betaTest/?file=pdf/D-Book.pdf&json=pdf/D-Book.json
-
-**  aktueller WoK-JSON Generator
-**** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/jsoneditor/jsoneditor_wok.html
-*** pdf.js viewer
-**** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/NewStandalone_1412.html#_
-*** mit hot key:
-**** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/NewStandalone_Donnerstag.html#_
-*** mit transparenten Fenstern
-**** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/NewStandalone_Debug.html#_
-**  JSON editor/manager
-**** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/jsoneditor/jsoneditor.html
-*** Beispiel für Zitate
-*** aktuell
-**** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/jsoneditor/jsoneditor_renger2.html
-
-*** Beispiel für Online Indices
-**** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/jsoneditor/jsoneditor_index.html
 
 ** Kommunikation mit dem Server
 ***** $(".upload").click(function() {
@@ -80,6 +56,33 @@
 *** Konvention für Namen der JSON files
 
 ** +++++++++   Archiv   ++++++++++++++
+
+**   weitere Links von Sebastian
+***  wischen links/rechts
+**** http://brotschi.de/pdf.js/dBookViewer.betaTest/index_swipe.html
+***  renger
+**** http://brotschi.de/pdf.js/dBookViewer.betaTest/?file=pdf/renger_luatex_opt.pdf
+***  D-Book prototyp
+**** http://brotschi.de/pdf.js/dBookViewer.betaTest/?file=pdf/D-Book.pdf&json=pdf/D-Book.json
+
+**  aktueller WoK-JSON Generator
+**** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/jsoneditor/jsoneditor_wok.html
+*** pdf.js viewer
+**** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/NewStandalone_1412.html#_
+*** mit hot key:
+**** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/NewStandalone_Donnerstag.html#_
+*** mit transparenten Fenstern
+**** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/NewStandalone_Debug.html#_
+**  JSON editor/manager
+**** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/jsoneditor/jsoneditor.html
+*** Beispiel für Zitate
+*** aktuell
+**** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/jsoneditor/jsoneditor_renger2.html
+
+*** Beispiel für Online Indices
+**** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/jsoneditor/jsoneditor_index.html
+
+
 *** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/ThreeWindow_1.html
 *** http://www.ancient-astronomy.org/webapplications/gordon/dEbook/html/index2.html
 *** Link vom Freitag
