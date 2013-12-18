@@ -3,9 +3,9 @@
 ** Ablage auf edition-topoi.org
 *** internes pdf des gesamten Renger Bandes
 **** http://edition-topoi.org/dEbookViewer/bsa_29_0.pdf
-*** Main JSON file
+*** JSON file für den gesamten Band
 **** http://edition-topoi.org/dEbookViewer/bsa_29_01.json
-*** Metadaten JSON file
+*** Metadaten für den gesamten Band
 **** http://edition-topoi.org/dEbookViewer/bsa_29_0_metadaten.json
 
 *** für die einzelnen Artikel analog X=[1,2,3,4,5,6,7,8,9]
