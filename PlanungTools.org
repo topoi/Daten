@@ -15,19 +15,17 @@
 **** http://edition-topoi.org/dEbookViewer/bsa_29_X.json
 
 ** Link des Tages
-***  aktueller Link vom 17.12
+***  aktueller Link vom 17.12 (Sebastian)
 **** http://brotschi.de/pdf.js/dBookViewer.betaTest/?file=pdf/renger_luatex_opt.pdf
 
 ** der ganze Rest:
 *** Skizzierung der Server-Kommunikation
 ***** https://dl.dropboxusercontent.com/u/103327358/WoK.pdf
 
-** Link zum Renger Band auf dem Server
+*** Link zum Renger Band auf dem Archimedes-Server
 *** http://www.ancient-astronomy.org/webapplications/eTopoi/renger_luatex_opt.pdf
 
-**   Links von Sebastian
-
-
+**   weitere Links von Sebastian
 ***  wischen links/rechts
 **** http://brotschi.de/pdf.js/dBookViewer.betaTest/index_swipe.html
 ***  renger
