@@ -4,7 +4,7 @@
 *** internes pdf des gesamten Renger Bandes
 **** http://edition-topoi.org/dEbookViewer/bsa_29_0.pdf
 *** JSON file für den gesamten Band
-**** http://edition-topoi.org/dEbookViewer/bsa_29_01.json
+**** http://edition-topoi.org/dEbookViewer/bsa_29_0.json
 *** Metadaten für den gesamten Band
 **** http://edition-topoi.org/dEbookViewer/bsa_29_0_metadaten.json
 
