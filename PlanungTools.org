@@ -1,5 +1,13 @@
 * Planung der JSON Files und des JSON creators
 
+** Ablage auf edition-topoi.org
+*** internes pdf des gesamten Renger Bandes
+**** http://edition-topoi.org/dEbookViewer/bsa_29_0.pdf
+*** Main JSON file
+**** http://edition-topoi.org/dEbookViewer/bsa_29_0.json
+*** Metadaten JSON file
+**** http://edition-topoi.org/dEbookViewer/bsa_29_0_metadaten.json
+
 ** Link des Tages
 *** http://www.ancient-astronomy.org/webapplications/gordon/dEbook/html/index2.html
 
