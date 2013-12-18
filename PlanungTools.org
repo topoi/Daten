@@ -15,7 +15,8 @@
 **** http://edition-topoi.org/dEbookViewer/bsa_29_X.json
 
 ** Link des Tages
-*** http://www.ancient-astronomy.org/webapplications/gordon/dEbook/html/index2.html
+***  aktueller Link vom 17.12
+**** http://brotschi.de/pdf.js/dBookViewer.betaTest/?file=pdf/renger_luatex_opt.pdf
 
 ** der ganze Rest:
 *** Skizzierung der Server-Kommunikation
@@ -25,8 +26,7 @@
 *** http://www.ancient-astronomy.org/webapplications/eTopoi/renger_luatex_opt.pdf
 
 **   Links von Sebastian
-***  aktueller Link vom 17.12
-**** http://brotschi.de/pdf.js/dBookViewer.betaTest/?file=pdf/renger_luatex_opt.pdf
+
 
 ***  wischen links/rechts
 **** http://brotschi.de/pdf.js/dBookViewer.betaTest/index_swipe.html
@@ -83,7 +83,7 @@
 
 ** +++++++++   Archiv   ++++++++++++++
 *** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/ThreeWindow_1.html
-
+*** http://www.ancient-astronomy.org/webapplications/gordon/dEbook/html/index2.html
 *** Link vom Freitag
 *** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/NewStandalone.html#_
 
