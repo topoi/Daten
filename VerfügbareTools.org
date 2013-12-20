@@ -2,7 +2,7 @@
 
 
 *** Tools von Bernhard
-
+**** STL
 ****** http://www.ancient-astronomy.org/webapplications/bernhard/WoKExamples/BSDP0236ObjID177.stl
 ****** http://www.ancient-astronomy.org/webapplications/bernhard/WoKExamples/BSDP0226ObjID438.stl
 ****** http://www.ancient-astronomy.org/webapplications/bernhard/WoKExamples/BSDP0272ObjID169.stl
@@ -11,6 +11,9 @@
 ****** http://www.ancient-astronomy.org/webapplications/bernhard/WoKExamples/Fragment.stl
 ****** http://www.ancient-astronomy.org/webapplications/bernhard/WoKExamples/HimmelskugelFarnese.stl
 
+**** CDF
+****** www.ancient-astronomy.org/webapplications/bernhard/WoKExamples/BSDP0005.cdf
+****** www.ancient-astronomy.org/webapplications/bernhard/WoKExamples/BACP0089a.cdf
 
 *** 3d Viewer
 ****** http://www.ancient-astronomy.org/webapplications/gordon/3dviewer/examples/ThingView_adress.html?http://www.ancient-astronomy.org/webapplications/gordon/3dviewer/examples/models/ply/ascii/BSDP0042ObjID2ASCII.stl
