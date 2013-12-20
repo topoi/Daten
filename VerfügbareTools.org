@@ -1,12 +1,8 @@
 ** Liste mit aktuellen Versionen von Tools
-*** 3d Viewer
-****** http://www.ancient-astronomy.org/webapplications/gordon/3dviewer/examples/ThingView_adress.html?http://www.ancient-astronomy.org/webapplications/gordon/3dviewer/examples/models/ply/ascii/BSDP0042ObjID2ASCII.stl
 
 
-*** PTM Viewer
-****** http://www.ancient-astronomy.org/webapplications/gordon/3dviewer/examples/PTMviewer.html
+*** Tools von Bernhard (noch mehr unter http://www.ancient-astronomy.org/webapplications/bernhard/WoKExamples/)
 
-*** Tools von Bernhard
 ****** http://www.ancient-astronomy.org/webapplications/bernhard/WoKExamples/BSDP0236ObjID177.stl
 ****** http://www.ancient-astronomy.org/webapplications/bernhard/WoKExamples/BSDP0226ObjID438.stl
 ****** http://www.ancient-astronomy.org/webapplications/bernhard/WoKExamples/BSDP0272ObjID169.stl
@@ -16,3 +12,9 @@
 ****** http://www.ancient-astronomy.org/webapplications/bernhard/WoKExamples/HimmelskugelFarnese.stl
 
 
+*** 3d Viewer
+****** http://www.ancient-astronomy.org/webapplications/gordon/3dviewer/examples/ThingView_adress.html?http://www.ancient-astronomy.org/webapplications/gordon/3dviewer/examples/models/ply/ascii/BSDP0042ObjID2ASCII.stl
+
+
+*** PTM Viewer
+****** http://www.ancient-astronomy.org/webapplications/gordon/3dviewer/examples/PTMviewer.html
