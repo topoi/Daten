@@ -10,37 +10,48 @@
 
 *** Metadaten JSON für die einzelnen Kapitel
 **** E
+***** http://edition-topoi.org/dEbookViewer/viewer/dBookViewer/?file=http://edition-topoi.org/dEbookViewer/bsa_29_01.json
 ***** http://edition-topoi.org/dEbookViewer/bsa_29_01.json
 ***** http://edition-topoi.org/dEbookViewer/bsa_29_01_metadaten.json
 **** TH
+***** http://edition-topoi.org/dEbookViewer/viewer/dBookViewer/?file=http://edition-topoi.org/dEbookViewer/bsa_29_02.json
 ***** http://edition-topoi.org/dEbookViewer/bsa_29_02.json
 ***** http://edition-topoi.org/dEbookViewer/bsa_29_02_metadaten.json
 ****
 **** DV
+***** http://edition-topoi.org/dEbookViewer/viewer/dBookViewer/?file=http://edition-topoi.org/dEbookViewer/bsa_29_03.json
 ***** http://edition-topoi.org/dEbookViewer/bsa_29_03.json
 ***** http://edition-topoi.org/dEbookViewer/bsa_29_03_metadaten.json
 **** FW
+***** http://edition-topoi.org/dEbookViewer/viewer/dBookViewer/?file=http://edition-topoi.org/dEbookViewer/bsa_29_04.json
 ***** http://edition-topoi.org/dEbookViewer/bsa_29_04.json
 ***** http://edition-topoi.org/dEbookViewer/bsa_29_04_metadaten.json
 **** JS
+***** http://edition-topoi.org/dEbookViewer/viewer/dBookViewer/?file=http://edition-topoi.org/dEbookViewer/bsa_29_05.json
 ***** http://edition-topoi.org/dEbookViewer/bsa_29_05.json
 ***** http://edition-topoi.org/dEbookViewer/bsa_29_05_metadaten.json
 **** ML
+***** http://edition-topoi.org/dEbookViewer/viewer/dBookViewer/?file=http://edition-topoi.org/dEbookViewer/bsa_29_06.json
 ***** http://edition-topoi.org/dEbookViewer/bsa_29_06.json
 ***** http://edition-topoi.org/dEbookViewer/bsa_29_06_metadaten.json
 **** US
+***** http://edition-topoi.org/dEbookViewer/viewer/dBookViewer/?file=http://edition-topoi.org/dEbookViewer/bsa_29_07.json
 ***** http://edition-topoi.org/dEbookViewer/bsa_29_07.json
 ***** http://edition-topoi.org/dEbookViewer/bsa_29_07_metadaten.json
 **** MS
+***** http://edition-topoi.org/dEbookViewer/viewer/dBookViewer/?file=http://edition-topoi.org/dEbookViewer/bsa_29_08.json
 ***** http://edition-topoi.org/dEbookViewer/bsa_29_08.json
 ***** http://edition-topoi.org/dEbookViewer/bsa_29_08_metadaten.json
 **** BM
+***** http://edition-topoi.org/dEbookViewer/viewer/dBookViewer/?file=http://edition-topoi.org/dEbookViewer/bsa_29_09.json
 ***** http://edition-topoi.org/dEbookViewer/bsa_29_09.json
 ***** http://edition-topoi.org/dEbookViewer/bsa_29_09_metadaten.json
 **** AN
+***** http://edition-topoi.org/dEbookViewer/viewer/dBookViewer/?file=http://edition-topoi.org/dEbookViewer/bsa_29_10.json
 ***** http://edition-topoi.org/dEbookViewer/bsa_29_10.json
 ***** http://edition-topoi.org/dEbookViewer/bsa_29_10_metadaten.json
 **** IT
+***** http://edition-topoi.org/dEbookViewer/viewer/dBookViewer/?file=http://edition-topoi.org/dEbookViewer/bsa_29_11.json
 ***** http://edition-topoi.org/dEbookViewer/bsa_29_11.json
 ***** http://edition-topoi.org/dEbookViewer/bsa_29_11_metadaten.json
 
