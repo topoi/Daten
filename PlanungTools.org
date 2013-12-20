@@ -8,7 +8,7 @@
 *** Metadaten für den gesamten Band
 **** http://edition-topoi.org/dEbookViewer/bsa_29_0_metadaten.json
 
-*** Metadaten JSON für die einzelnen Kapitel
+*** Metadaten JSON für die einzelnen Kapitel und Artikel als PDF (jeweils erster Link)
 **** E
 ***** http://edition-topoi.org/dEbookViewer/viewer/dBookViewer/?file=http://edition-topoi.org/dEbookViewer/bsa_29_01.json
 ***** http://edition-topoi.org/dEbookViewer/bsa_29_01.json
