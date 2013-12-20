@@ -5,3 +5,14 @@
 
 *** PTM Viewer
 ****** http://www.ancient-astronomy.org/webapplications/gordon/3dviewer/examples/PTMviewer.html
+
+*** Tools von Bernhard
+****** http://www.ancient-astronomy.org/webapplications/bernhard/WoKExamples/BSDP0236ObjID177.stl
+****** http://www.ancient-astronomy.org/webapplications/bernhard/WoKExamples/BSDP0226ObjID438.stl
+****** http://www.ancient-astronomy.org/webapplications/bernhard/WoKExamples/BSDP0272ObjID169.stl
+****** http://www.ancient-astronomy.org/webapplications/bernhard/WoKExamples/BSDP0278ObjID229.stl
+****** http://www.ancient-astronomy.org/webapplications/bernhard/WoKExamples/AtlasFarnese.stl
+****** http://www.ancient-astronomy.org/webapplications/bernhard/WoKExamples/Fragment.stl
+****** http://www.ancient-astronomy.org/webapplications/bernhard/WoKExamples/HimmelskugelFarnese.stl
+
+
