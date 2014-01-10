@@ -1,4 +1,4 @@
-* Tools (3d Modelle, PTM etc.) die für das Sonnenuhrenprojekt Verwendung finden 
+* Tools (3d Modelle, PTM, Navigator etc.) die für das Sonnenuhrenprojekt Verwendung finden 
 
 ** Sundial Navigator
 *** http://www.ancient-astronomy.org/webapplications/gordon/SundialNavigatorProject/CurrentVersion/index.html
