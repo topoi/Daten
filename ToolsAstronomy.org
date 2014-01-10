@@ -1,2 +1,9 @@
 * Alle Tools für babylonische Astronomie, die für das dEbook verwendet werden können.
 ** 
+
+** Bewegung von Objekten am Himmel
+*** http://www.ancient-astronomy.org/webapplications/gordon/DiaryProject/Tools/MondSternBewegung.html
+***  http://www.ancient-astronomy.org/webapplications/gordon/DiaryProject/Tools/MondSternBewegung_Common.html
+** Diaries
+*** Kombination
+**** http://www.ancient-astronomy.org/webapplications/gordon/DiaryProject/Tools/Interface.html
