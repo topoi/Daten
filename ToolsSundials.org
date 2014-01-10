@@ -9,7 +9,8 @@
 ***** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_Shadow.html
 *** zweiter Entwurf mit erster Berechnung des wahren Breitengradabhängigen Sonnenverlaufes (Sonne "eiert" noch, muss korrigiert werden) 
 ***** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_SunPath.html
-*** Kombination einer realen Sonnenuhr mit einem idealisierten Modell
+*** Kombination einer realen Sonnenuhr mit einem idealisierten Modell (Licht muss optimiert werden um die vollen Flächen des
+idealen Modells anzuzeigen):
 ***** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_IdealModel.html
 
 *** ++++++  ältere Versionen  +++++++ 
