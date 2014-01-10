@@ -1,0 +1,13 @@
+* Tools (3d Modelle, PTM etc.) die für das Sonnenuhrenprojekt Verwendung finden 
+
+** Sundial Navigator
+*** http://www.ancient-astronomy.org/webapplications/gordon/SundialNavigatorProject/CurrentVersion/index.html
+
+
+** 3d Modelle, aktuelle Entwicklungen
+*** erster Test des Schattenwurfes
+**** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_Shadow.html
+*** zweiter Entwurf mit erster Berechnung des wahren Sonnenverlaufes
+**** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_Shadow.html
+*** Kombination einer realen Sonnenuhr mit einem idealisierten Modell
+**** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_IdealModel.html
