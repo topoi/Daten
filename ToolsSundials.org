@@ -8,7 +8,7 @@
 *** erster Test des Schattenwurfes
 ***** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_Shadow.html
 *** zweiter Entwurf mit erster Berechnung des wahren Sonnenverlaufes
-***** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_Shadow.html
+***** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_SunPath.html
 *** Kombination einer realen Sonnenuhr mit einem idealisierten Modell
 ***** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_IdealModel.html
 
