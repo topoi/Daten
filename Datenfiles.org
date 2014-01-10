@@ -15,9 +15,3 @@
 ****** www.ancient-astronomy.org/webapplications/bernhard/WoKExamples/BSDP0005.cdf
 ****** www.ancient-astronomy.org/webapplications/bernhard/WoKExamples/BACP0089a.cdf
 
-*** 3d Viewer
-****** http://www.ancient-astronomy.org/webapplications/gordon/3dviewer/examples/ThingView_adress.html?http://www.ancient-astronomy.org/webapplications/gordon/3dviewer/examples/models/ply/ascii/BSDP0042ObjID2ASCII.stl
-
-
-*** PTM Viewer
-****** http://www.ancient-astronomy.org/webapplications/gordon/3dviewer/examples/PTMviewer.html
