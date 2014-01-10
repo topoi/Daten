@@ -11,3 +11,12 @@
 **** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_Shadow.html
 *** Kombination einer realen Sonnenuhr mit einem idealisierten Modell
 **** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_IdealModel.html
+
+*** ++++++  ältere Versionen  +++++++ 
+
+**** 3d Viewer
+****** http://www.ancient-astronomy.org/webapplications/gordon/3dviewer/examples/ThingView_adress.html?http://www.ancient-astronomy.org/webapplications/gordon/3dviewer/examples/models/ply/ascii/BSDP0042ObjID2ASCII.stl
+
+
+**** PTM Viewer
+****** http://www.ancient-astronomy.org/webapplications/gordon/3dviewer/examples/PTMviewer.html
