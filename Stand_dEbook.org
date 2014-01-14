@@ -1,5 +1,24 @@
 * Planung der JSON Files und des JSON creators
 
+** ++++++++++++++++   Aktuell  +++++++++++++++
+*** bibliography
+**** scholar.py
+***** python ./scholar.py "Spontaneous symmetry breakdown without massless bosons" --author="Higgs" --count=1 --bibtex
+***** @article{higgs1966spontaneous,
+***** title={Spontaneous symmetry breakdown without massless bosons},
+***** author={Higgs, Peter W},
+***** journal={Physical Review},
+***** volume={145},
+***** number={4},
+***** pages={1156},
+***** year={1966},
+***** publisher={APS}
+***** }
+**** Beispiel mit css libs (4: Iphone Style)
+***** http://www.ancient-astronomy.org/webapplications/gordon/pdfv/web/example1.html
+** +++++++++++++++++++++++++++++++++++++++++++
+
+
 ** Ablage auf edition-topoi.org
 *** internes pdf des gesamten Renger Bandes
 **** http://edition-topoi.org/dEbookViewer/bsa_29_0.pdf
