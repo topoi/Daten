@@ -3,6 +3,8 @@
 ** ++++++++++++++++   Aktuell  +++++++++++++++
 *** zur bibliography
 **** script um metadaten zu paper zu laden (scholar.py):
+*****  http://www.ancient-astronomy.org/webapplications/gordon/scholar.py
+
 ***** ########################################################################################
 ****** python ./scholar.py "Spontaneous symmetry breakdown without massless bosons" --author="Higgs" --count=1 --bibtex
 ****** @article{higgs1966spontaneous,
