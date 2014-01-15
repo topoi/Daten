@@ -7,6 +7,10 @@
 ** 3d Modelle, aktuelle Entwicklungen
 *** Schattenverlauf Sonnenuhr BSDP0266 im Jahr 77 AD, 22.6. (JPL Daten) in Pompeii (40,5° NB)
 **** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_SunPath_Pompeii_PompeiiLatitude.html
+*** Schattenverlauf der selben Sonnenuhr, aber mit geradem Gnomon
+**** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_SunPath_Pompeii_PompeiiLatitude_GeraderGnomon.html
+
+
 *** Schattenverlauf Sonnenuhr BSDP0266 im Jahr 77 AD, 22.6. (JPL Daten) in Delos (37.5° NB)
 **** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_SunPath_Pompeii_DelosLatitude.html
 
