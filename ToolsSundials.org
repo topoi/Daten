@@ -17,10 +17,15 @@
 
 ** PTM (RTI) aktuelle Entwicklungen
 *** Teil einer Sonnenuhr (Lichtperformance kann noch ausgebaut werden)
-**** http://www.ancient-astronomy.org/webapplications/gordon/PTMViewer/PTMViewer.html
+**** http://www.ancient-astronomy.org/webapplications/gordon/PTMViewer/PTMViewer_Mouse.html
+*** Lichtposition als Parameter
+**** http://www.ancient-astronomy.org/webapplications/gordon/PTMViewer/PTMViewer.html?0?10?25
+
 
 ** Sundial Navigator
 ***** http://www.ancient-astronomy.org/webapplications/gordon/SundialNavigatorProject/CurrentVersion/index.html
+
+
 
 *** +++++++++++++++++++++  ARCHIV  ++++++++++++++++++++
 
