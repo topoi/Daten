@@ -1,9 +1,5 @@
 * Tools (3d Modelle, PTM, Navigator etc.) die für das Sonnenuhrenprojekt Verwendung finden 
 
-** Sundial Navigator
-***** http://www.ancient-astronomy.org/webapplications/gordon/SundialNavigatorProject/CurrentVersion/index.html
-
-
 ** 3d Modelle, aktuelle Entwicklungen
 *** Schattenverlauf Sonnenuhr BSDP0266 im Jahr 77 AD, 22.6. (JPL Daten) in Pompeii (40,5° NB) SOMMESONNENWENDE
 **** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_SunPath_Pompeii_PompeiiLatitude.html
@@ -22,6 +18,9 @@
 ** PTM (RTI) aktuelle Entwicklungen
 *** Teil einer Sonnenuhr (Lichtperformance kann noch ausgebaut werden)
 **** http://www.ancient-astronomy.org/webapplications/gordon/PTMViewer/PTMViewer.html
+
+** Sundial Navigator
+***** http://www.ancient-astronomy.org/webapplications/gordon/SundialNavigatorProject/CurrentVersion/index.html
 
 *** ++++++  ältere Versionen  +++++++ 
 *** erster Test des Schattenwurfes
