@@ -3,6 +3,10 @@
 ** Verknüpfung des JSON files für die Annotations Tools
 **** http://www.ancient-astronomy.org/webapplications/gordon/Verknuepfung.pdf
 
+*** Problem bei Ausführung im dEbook Viewer
+**** http://www.ancient-astronomy.org/webapplications/gordon/BetaViewer/viewer/dBookViewer/index.html?pdf=http://www.ancient-astronomy.org/webapplications/gordon/Verknuepfung.pdf
+
+
 ** BASE Suchmaschine
 *** einfache Suche
 ***** http://www.base-search.net/Search/Results?lookfor=The+Tale+of+Sinuhe+and+other+Ancient+Egyptian+Poems&type=all&ling=1&name=&thes=&refid=dcresde&newsearch=1
