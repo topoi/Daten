@@ -19,6 +19,10 @@
 *** Kombination einer realen Sonnenuhr mit einem idealisierten Modell (Licht muss optimiert werden um die vollen Flächen des idealen Modells anzuzeigen):
 ***** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_IdealModel.html
 
+** PTM (RTI) aktuelle Entwicklungen
+*** Teil einer Sonnenuhr (Lichtperformance kann noch ausgebaut werden)
+**** http://www.ancient-astronomy.org/webapplications/gordon/PTMViewer/PTMViewer.html
+
 *** ++++++  ältere Versionen  +++++++ 
 *** erster Test des Schattenwurfes
 ***** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_Shadow.html
