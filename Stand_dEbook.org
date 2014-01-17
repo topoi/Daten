@@ -1,5 +1,8 @@
 * Planung der JSON Files und des JSON creators
 
+** BASE Suchmaschine
+***** http://www.base-search.net/Search/Results?lookfor=The+Tale+of+Sinuhe+and+other+Ancient+Egyptian+Poems&type=all&ling=2&name=&refid=dcbasde
+
 ** ++++++++++++++++   Aktuell  +++++++++++++++
 *** zur bibliography
 **** script um metadaten zu paper zu laden (scholar.py):
