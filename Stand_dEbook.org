@@ -1,7 +1,9 @@
 * Planung der JSON Files und des JSON creators
 
 ** BASE Suchmaschine
+*** einfache Suche
 ***** http://www.base-search.net/Search/Results?lookfor=The+Tale+of+Sinuhe+and+other+Ancient+Egyptian+Poems&type=all&ling=1&name=&thes=&refid=dcresde&newsearch=1
+*** erweiterte Suche
 ***** http://www.base-search.net/Search/Results?lookfor=The+Tale+of+Sinuhe+and+other+Ancient+Egyptian+Poems&type=all&ling=2&name=&refid=dcbasde
 
 ** ++++++++++++++++   Aktuell  +++++++++++++++
