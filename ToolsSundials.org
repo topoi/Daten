@@ -16,6 +16,13 @@
 *** Die Sonnenuhr Apollo Tempel ideale Ausrichtung (Südausrichtung des Gnomons)
 **** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_ApolloUhr.html
 
+*** Illustration an einer anderen Sonnenuhr mit Jahreszeitenlinie
+**** 31 Grad verschoben:
+***** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_SunPath_Pompeii_PompeiiLatitude_GeraderGnomon_Equinoktium_31GradVerschoben.html
+**** ideale Süduasrichtung:
+***** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_SunPath_Pompeii_PompeiiLatitude_GeraderGnomon_Equinoktium.html
+
+
 
 *** Kombination einer realen Sonnenuhr mit einem idealisierten Modell (Licht muss optimiert werden um die vollen Flächen des idealen Modells anzuzeigen):
 ***** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_IdealModel.html
