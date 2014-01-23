@@ -1,6 +1,6 @@
 * Tools (3d Modelle, PTM, Navigator etc.) die für das Sonnenuhrenprojekt Verwendung finden 
 
-** 3d Modelle, aktuelle Entwicklungen
+** 3d Modelle, aktuelle Entwicklungen (ACHTUNG, alle Animationen für 77 AD!)
 *** Schattenverlauf Sonnenuhr BSDP0266 im Jahr 77 AD, 22.6. (JPL Daten) in Pompeii (40,5° NB) SOMMESONNENWENDE
 **** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_SunPath_Pompeii_PompeiiLatitude.html
 *** Schattenverlauf der selben Sonnenuhr, aber mit geradem Gnomon SOMMESONNENWENDE
