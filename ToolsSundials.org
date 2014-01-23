@@ -27,7 +27,7 @@
 *** Frühjahrs-Äquinoktium
 ***** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_Planar_Equinoktium.html
 *** Sommersonnenwende
-*****http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_Planar_Sommersonnenwende.html
+***** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_Planar_Sommersonnenwende.html
 *** Wintersonnenwende
 ***** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_Planar_Wintersonnenwende.html
 
