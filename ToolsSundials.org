@@ -23,6 +23,15 @@
 ***** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_SunPath_Pompeii_PompeiiLatitude_GeraderGnomon_Equinoktium.html
 
 
+** Planare Sonnenuhr aus Pompeii
+*** Frühjahrs-Äquinoktium
+***** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_Planar_Equinoktium.html
+*** Sommersonnenwende
+*****http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_Planar_Sommersonnenwende.html
+*** Wintersonnenwende
+***** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_Planar_Wintersonnenwende.html
+
+
 
 *** Kombination einer realen Sonnenuhr mit einem idealisierten Modell (Licht muss optimiert werden um die vollen Flächen des idealen Modells anzuzeigen):
 ***** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_IdealModel.html
