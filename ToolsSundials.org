@@ -32,6 +32,13 @@
 ***** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_Planar_Wintersonnenwende.html
 
 
+*** Sonnenuhr über 2000 Jahre 
+***** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_SunPath_Pompeii_PompeiiLatitude_GeraderGnomon_Equinoktium_1AD_and_2000AD.html
+*** Sonnenuhr für verschiedene Breitengrade (Delos vs. Pompeii)
+***** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_SunPath_Pompeii_PompeiiLatitude_GeraderGnomon_Equinoktium_Pompeii_Delos.html
+
+
+
 
 *** Kombination einer realen Sonnenuhr mit einem idealisierten Modell (Licht muss optimiert werden um die vollen Flächen des idealen Modells anzuzeigen):
 ***** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_IdealModel.html
@@ -41,6 +48,8 @@
 **** http://www.ancient-astronomy.org/webapplications/gordon/PTMViewer/PTMViewer_Mouse.html
 *** Lichtposition als Parameter
 **** http://www.ancient-astronomy.org/webapplications/gordon/PTMViewer/PTMViewer.html?0?10?25
+
+
 
 
 ** Sundial Navigator
