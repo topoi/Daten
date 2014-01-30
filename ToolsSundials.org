@@ -1,4 +1,9 @@
 * Tools (3d Modelle, PTM, Navigator etc.) die für das Sonnenuhrenprojekt Verwendung finden 
+** AKTUELL:
+**** Visualisierung durch Licht der Ritzlinie bei der unvollendeten Sonnenuhr (Objekt 68)
+****** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation.html
+**** Kombination Kegel mit obiger Sonnenuhr (Elisabeth weiß warum)
+****** www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_Shadow.html
 
 ** 3d Modelle, aktuelle Entwicklungen (ACHTUNG, alle Animationen für 77 AD!)
 *** Schattenverlauf Sonnenuhr BSDP0266 im Jahr 77 AD, 22.6. (JPL Daten) in Pompeii (40,5° NB) SOMMESONNENWENDE
