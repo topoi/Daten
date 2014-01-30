@@ -2,7 +2,7 @@
 ** AKTUELL:
 **** Visualisierung durch Licht der Ritzlinie bei der unvollendeten Sonnenuhr (Objekt 68)
 ****** http://www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation.html
-**** Kombination Kegel mit obiger Sonnenuhr (Elisabeth weiß warum)
+**** Kombination Kegel mit obiger Sonnenuhr (Elisabeth weiß warum) Achtung!: Datei ca. 60 MB
 ****** www.ancient-astronomy.org/webapplications/gordon/Sundial3DProject/Example/3D-Animation_Shadow.html
 
 ** 3d Modelle, aktuelle Entwicklungen (ACHTUNG, alle Animationen für 77 AD!)
