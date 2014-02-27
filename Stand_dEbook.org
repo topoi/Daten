@@ -1,4 +1,7 @@
 * Planung der JSON Files und des JSON creators
+** aktueller Stand des Composers
+*** http://www.ancient-astronomy.org/webapplications/gordon/dEbookProject/viewer.beta/dBookViewer/Composer.html
+
 
 ** Verknüpfung des JSON files für die Annotations Tools
 **** http://www.ancient-astronomy.org/webapplications/gordon/Verknuepfung.pdf
