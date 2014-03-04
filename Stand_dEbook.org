@@ -1,5 +1,8 @@
 * Planung der JSON Files und des JSON creators
 ** aktueller Stand des Composers
+*** http://www.ancient-astronomy.org/webapplications/gordon/dEbookProject/viewer.beta/dBookViewer/Composer.dev3.html
+*** http://www.ancient-astronomy.org/webapplications/gordon/dEbookProject/viewer.beta/dBookViewer/Composer.dev2.html
+
 *** http://www.ancient-astronomy.org/webapplications/gordon/dEbookProject/viewer.beta/dBookViewer/Composer.html
 
 
