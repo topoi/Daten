@@ -1,9 +1,13 @@
 * Planung der JSON Files und des JSON creators
 ** aktueller Stand des Composers
-*** http://www.ancient-astronomy.org/webapplications/gordon/dEbookProject/viewer.beta/dBookViewer/Composer.dev3.html
-*** http://www.ancient-astronomy.org/webapplications/gordon/dEbookProject/viewer.beta/dBookViewer/Composer.dev2.html
+*** http://www.ancient-astronomy.org/webapplications/gordon/dEbookProject/viewer.beta/dBookViewer/Composer.develop3.html
 
-*** http://www.ancient-astronomy.org/webapplications/gordon/dEbookProject/viewer.beta/dBookViewer/Composer.html
+** Link zur Topoi Cloud (own Cloud)
+*** www.ancient-astronomy.org/webapplications/gordon/owncloud/
+
+*** weitere Versionen
+**** http://www.ancient-astronomy.org/webapplications/gordon/dEbookProject/viewer.beta/dBookViewer/Composer.dev2.html
+**** http://www.ancient-astronomy.org/webapplications/gordon/dEbookProject/viewer.beta/dBookViewer/Composer.html
 
 
 ** Verknüpfung des JSON files für die Annotations Tools
