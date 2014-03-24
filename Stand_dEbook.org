@@ -1,4 +1,4 @@
-* Planung der JSON Files und des JSON creators
+* Planung der Verknüpfungstools (Scitables als Annotationen für dEbooks)
 ** aktueller Stand des Composers
 *** http://www.ancient-astronomy.org/webapplications/gordon/dEbookProject/viewer.beta/dBookViewer/Composer.develop3.html
 
